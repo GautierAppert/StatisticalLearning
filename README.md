@@ -1,2 +1,2 @@
 # StatisticalLearningg
-R codes from ENSAE course on Statistical Learning
+R codes from ENSAE ParisTech course on Statistical Learning
