@@ -1,9 +1,9 @@
 # StatisticalLearning
 
-This repository provides **R** codes from ENSAE ParisTech course on **Statistical Learning**. 
+This repository provides **R** codes from ENSAE ParisTech course on **Statistical Learning**.  
 
 
-*Gautier Appert and Guillaume Salha*    
+*Gautier Appert and Guillaume Salha* 
 
 *Fall 2015*
 
