@@ -9,6 +9,6 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 
 ===============
 
-* **TP 1: Algae Bloom Predictions** Learning with missing data, kNN Imputation, ANOVA, Backward variable selection, Linear Models, Decision Trees, Model Selection, Predictions
+* **TP 1: Algae Bloom Prediction** Learning with missing data, kNN Imputation, ANOVA, Backward variable selection, Linear Models, Decision Trees, Model Selection, Prediction
 
 * **TP 2: (soon)**
