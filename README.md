@@ -1,6 +1,6 @@
 # StatisticalLearning
 
-This repository provides **R** codes from ENSAE ParisTech course on *Statistical Learning*. 
+This repository provides **R** codes from ENSAE ParisTech course on **Statistical Learning**. 
 
 Fall 2015
 
