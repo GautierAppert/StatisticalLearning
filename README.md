@@ -3,7 +3,7 @@
 This repository provides **R** codes from ENSAE ParisTech course on **Statistical Learning**.  
 
 
-*Gautier Appert and Guillaume Salha* 
+*G. Appert and G. Salha* 
 
 *Fall 2015*
 
