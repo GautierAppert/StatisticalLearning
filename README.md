@@ -11,9 +11,9 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 ===============
 
 
-*Gautier Appert and Guillaume Salha* 
+<sup>*Gautier Appert and Guillaume Salha*
 
-*ENSAE ParisTech - 3A Data Science*
+<sup>*ENSAE ParisTech - 3A Data Science*
 
-*Fall 2015*
+<sup>*Fall 2015*
 
