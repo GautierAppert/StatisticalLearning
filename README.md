@@ -5,7 +5,7 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 
 * **TP 1: Algae Bloom Prediction** Learning with missing data, kNN Imputation, ANOVA, Backward variable selection, Linear Models, Decision Trees, Model Selection, Prediction
 
-* **TP 2: Stock Market Returns** kNN, k-Fold Cross Validation, Monte-Carlo Cross Validation, Candlestick Graphs, Random Forests, Variable Importance
+* **TP 2: Stock Market Returns** kNN Predictor, k-Fold Cross Validation, Monte-Carlo Cross Validation, Candlestick Graphs, Random Forests, Variable Importance
 
 
 ===============
