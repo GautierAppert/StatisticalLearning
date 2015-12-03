@@ -7,7 +7,7 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 
 * **TP 2: Stock Market Returns** kNN Predictor, k-Fold Cross Validation, Monte-Carlo Cross Validation, Candlestick Graphs, Random Forests, Variable Importance
 
-* **TP 3: Universal Consistency, No Free Lunch** Uniform Universal Consistency (positive and negative results), No Free Lunch, Theoretical considerations on kNN classifier 
+* **TP 3: Universal Consistency, No Free Lunch** Uniform Universal Consistency (positive and negative results), No Free Lunch, Theoretical considerations on kNN Classifier 
 
 
 ===============
