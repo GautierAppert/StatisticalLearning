@@ -9,6 +9,9 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 
 * **TP 3: Universal Consistency, No Free Lunch** Uniform Universal Consistency (positive and negative results), No Free Lunch, Theoretical considerations on kNN Classifier 
 
+* **TP 4: Some Theoretical Deepening** Conditional density estimation, Consistency conditions for Phi-risk minimizer, Exponential Weights Aggregation,  Vapnik–Chervonenkis dimension
+
+* **TP 5:** (soon)
 
 ===============
 
