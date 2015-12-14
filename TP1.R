@@ -56,7 +56,7 @@ library(Amelia)
 missmap(algae, main="Détection des valeurs manquantes dans la base de données 'Train'", col=c("blue", "black"), legend=FALSE)
 
 
-# Méthod 1: remove observations
+# Method 1: remove observations
 algae1 <- na.omit(algae)
 nrow(algae)
 nrow(algae1)
