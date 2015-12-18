@@ -11,7 +11,7 @@ This repository provides **R** codes from ENSAE ParisTech course on **Statistica
 
 * **TP 4: Some Theoretical Deepening** Conditional density estimation, Consistency conditions for Phi-risk minimizer, Exponential Weights Aggregation,  Vapnik–Chervonenkis dimension
 
-* **TP 5: Detecting Fraudulent Transactions** Random Forest, Boosting, SVM, Neural Networks, Unsupervised Learning
+* **TP 5: Detecting Fraudulent Transactions** Random Forests, Boosting, SVM, Neural Networks, Unsupervised Learning
 
 ===============
 
